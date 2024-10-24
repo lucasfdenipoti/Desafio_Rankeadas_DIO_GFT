@@ -1,2 +1,2 @@
 # Desafio_Rankeadas_DIO_GFT
- Código feito para o desafio de projeto "Calculadora de Partidas Rankeadas" do DIO
+ Este código simula uma arena de combate onde um jogador enfrenta gladiadores até alcançar 100 vitórias. Ao atingir 100 vitórias, o jogador enfrenta o Imortal, o oponente final. O sistema utiliza classes para representar o jogador e o Imortal, além de métodos para calcular ataques e gerenciar o progresso nas batalhas. O jogador pode ganhar um dos diversos rankings (de "Ferro" a "Imortal") com base no número de vitórias obtidas. Se o jogador derrotar o Imortal, ele se torna o novo Imortal; caso contrário, perde após 5 rodadas de combate.
